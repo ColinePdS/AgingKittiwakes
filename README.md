@@ -1,5 +1,5 @@
 # AgingKittiwakes
-codes written during a research project on trans generationnal senescence on a wild population of kittiwakes. 
+codes written during a research project on trans generationnal senescence in a wild population of kittiwakes. 
 
 
 ## Abstract
