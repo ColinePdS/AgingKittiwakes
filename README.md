@@ -1,2 +1,7 @@
 # AgingKittiwakes
 codes written during a research project on trans generationnal senescence on a wild population of kittiwakes. 
+
+
+## Abstract
+Senescence, while ubiquitous in wild populations, is still studied when trans generational. Its effect could be positive – a gain of experience- or negative – a deterioration of the parents’ soma and ability-, especially in species with high level parental care such as birds or mammals. In addition, those effect could be sex dependent, which could translate in a better investment form the parents in one sex or another -Trivers-Willard effect-. This work aimed to study the transmissibility of senescence in a wild black legged kittiwake population. We choose to study parental age effect on survival (i), reproduction (ii) and the Lifetime Reproductive Success -LRS, (iii)- of offsprings; and to decompose those effect based on the parents and the offspring sex, via Capture Mark Recapture and Generalized Linear Models. Paternal age does have a stronger effect than maternal age on survival and LRS. However, no parents age influenced reproduction. The effects found are positive in the case of survival and daughters’ LRS, but negative in the case of sons’ LRS. That could be explain by a gain of experience for offspring survival, and a better investment in daughters than sons for the LRS, which is surprising, considering males are the territorial sex. 
+### Key words: Rissa tridactyla, Trans generational Senescence, Trivers-Willard, CMR, GLM
